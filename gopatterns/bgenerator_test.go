@@ -1,6 +1,7 @@
 package gopatterns
 
 
+
 import (
 	"testing"
 )
